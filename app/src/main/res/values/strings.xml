@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Java Quiz App</string>
+
+    <!-- quistion 1 -->
+    <string name="question1">1. What is the range of short data type in Java?</string>
+    <string name="question1Choice1">-128 to 127</string>
+    <string name="question1Choice2">-32768 to 32767</string> <!-- true answer -->
+    <string name="question1Choice3">-2147483648 to 2147483647</string>
+
+    <!-- quistion 2 -->
+    <string name="question2">2. Modulus operator, %, can be applied to which of these?</string>
+    <string name="question2Choice1">Integers</string>   <!-- integers and floating point numbers. -->
+    <string name="question2Choice2"> None of the mentioned</string>
+    <string name="question2Choice3">Floating – point numbers</string>
+
+    <!-- quistion 3 -->
+    <string name="question3">3. What is the stored in the object obj in following lines of code?</string>
+    <string name="quistion3Answer">your Answer...</string>  <!-- Null -->
+
+    <!-- quistion 4 -->
+    <string name="question4">4. Which data type value is returned by all transcendental math functions?</string>
+    <string name="question4Choice1"> int</string>
+    <string name="question4Choice2">double</string> <!-- true answer -->
+    <string name="question4Choice3">long</string>
+
+    <!-- quistion 5 -->
+    <string name="quistion5Answer"> What is the output of this program?!</string>  <!-- true answer 16.4 -->
+
+    <!-- submit buttom -->
+    <string name="submit">submit</string>
+    <!-- true answer buttom -->
+    <string name="trueAnswer">true answer</string>
+
+
+</resources>

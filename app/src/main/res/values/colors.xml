@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d40d3f</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="customeColor">#a7ff4081</color>
+    <color name="textViewColor">#a2fcae26</color>
+    <color name="Choic">#58d48d6c</color>
+    <color name="Lbutton">#cef2a256</color>
+
+</resources>
